@@ -1,0 +1,80 @@
+ [
+    {
+      "id": 1,
+      "name": "Sasuke Uchiha",
+      "username": "uchihasasuke",
+      "profile":"json_server/images/26533-9-uchiha-sasuke-transparent-picture-thumb.png",
+      "email": "sasuke@naruto.com"
+    },
+    {
+      "id": 2,
+      "name": "‎Lelouch Lamperouge",
+      "profile":"json_server/images/3-2-anime-free-download-png-thumb.png",
+      "username": "‎‎lelouchlamperouge",
+      "email": "‎‎lelouch@codegeass.com"
+    },
+    {
+      "id": 3,
+      "name": "Alucard",
+      "profile":"/json_server/images/26325-5-hellsing-clipart-thumb.png",
+      "username": "alucard",
+      "email": "alucard@venhellsing.com"
+    },
+    {
+      "id": 4,
+      "name": "Garaa Namakage",
+      "profile":"/json_server/images/110909-gaara-free-hq-image-thumb.png",
+      "username": "garaa",
+      "email": "garaa.OConner@kory.org"
+    },
+    {
+      "id": 5,
+      "name": "Kirito",
+      "username": "kirito",
+      "profile":"/json_server/images/111757-photos-anime-render-free-clipart-hd-thumb.png",
+      "email": "kirito@swordartonline.com"
+    },
+    {
+      "id": 6,
+      "name": "Eren Yeager",
+      "username": "erenyeager",
+      "profile":"/json_server/images/112656-yeager-eren-hd-image-free-thumb.png",
+      "email": "erenyeager@attackontitan.com"
+    },
+    {
+      "id": 7,
+      "name": "Black Goku",
+      "username": "blackgoku",
+      "profile":"/json_server/images/118442-zamasu-black-goku-free-photo-thumb.png",
+      "email": "Telly.Hoeger@billy.biz"
+    },
+    {
+      "id": 8,
+      "name": "Izuku Midoriya",
+      "username": "izukumidoriya",
+      "profile":"/json_server/images/119678-midoriya-izuku-png-free-photo-thumb.png",
+      "email": "izukumidoriya@myheroachedmia.com"
+    },
+    {
+      "id": 9,
+      "name": "Madara Uchiha",
+      "username": "madarauchiha",
+      "profile":"/json_server/images/119980-uchiha-madara-free-transparent-image-hq-thumb.png",
+      "email": "madarauchiha@naruto.com"
+    },
+    {
+      "id": 10,
+      "name": "Todoroki Shoto",
+      "username": "todorokishoto",
+      "profile":"json_server/images/121163-tv-todoroki-shoto-character-free-download-png-hd-thumb.png",
+      "email": "todorokishoto@myheroachedmia.com"
+    },
+    {
+      "id": 11,
+      "name": "Bakugo Katsuki",
+      "username": "bakugoukatsuki",
+      "profile":"json_server/images/154818-ichigo-kurosaki-download-free-image-thumb.png",
+      "email": "bakugoukatsuki@myheroachedmia.com"
+    }
+  ]
+  
